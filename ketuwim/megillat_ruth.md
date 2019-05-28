@@ -1,6 +1,6 @@
-Ruth
+# Ruth
 
-1. Kapitel
+## 1. Kapitel ##
 1. Zur Zeit, als die Richter [in Israel] regierten, herrschte einst Hungersnot im Lande. Ein Mann aus Betlehem in Juda wanderte aus, um im Gefilde Moab zu wohnen, er und sein Weib und seine beiden Söhne.
 2. Der Mann hieß Elimelech, sein Weib hieß Noomi, und seine Söhne hießen Machlon und Kiljon; sie waren Efrater, das ist aus Betlehem in Juda. Also kamen sie in das Gefilde Moab und blieben daselbst.
 3. Elimelech, der Ehegatte der Noomi, starb bald, so dass sie allein mit ihren Söhnen zurückblieb.
@@ -24,7 +24,7 @@ Ruth
 21. Ich bin voll weggegangen und leer hat mich der Herr heimgeführt. Warum nennet ihr mich Noomi, da der Herr mich gebeugt und der Allmächtige mir Leid zugefügt hat?
 22. So war die Heimkehr der Noomi und ihrer Schnur, der Moabiterin Ruth, welche heimgekehrt waren von den Gefilden Moab. Sie kamen nach Betlehem beim Anfang der Gerstenernte.
 
-2. Kapitel
+## 2. Kapitel ##
 1. Noomi hatte aber einen Verwandten ihres Mannes, einen wackern Mann aus dem Geschlechte Elimelech, mit Namen Boas.
 2. [Eines Tages] sprach die Moabiterin Ruth zu Noomi: Laß mich aufs Feld gehen und von den Aehren auflesen hinter dem her, in dessen Augen ich Gunst finde. [Noomi] erwiderte ihr: Geh, meine Tochter.
 3. Sie ging nun hin, und las Aehren auf dem Felde hinter den Schnittern, und es führte sie der Zufall in ein Ackerfeld des Boas, der aus dem Geschlechte des Elimelech war.
@@ -49,7 +49,7 @@ Ruth
 22. Da sprach Noomi zu ihrer Schnur Ruth: Es ist gut, meine Tochter, dass du mit seinen Mägden ausgehst, man könnte dir übel begegnen in einem andern Felde.
 23. Also hielt sie sich zu den Mägden des Boas, um aufzulesen bis zum Ende der Gersten- und der Weizenernte. Sonst wohnte sie aber bei ihrer Schwiegermutter.
 
-3. Kapitel
+## 3. Kapitel ##
 1. Eines Tages sprach ihre Schwiegermutter Noomi zu ihr: Meine Tochter, ich möchte dir eine Ruhestatt suchen, wo es dir wohlgehe.
 2. Und nun ist doch Boas unser Verwandter, mit dessen Mägden du zusammen warst. Er worfelt in der Gerstentenne diese Nacht.
 3. So bade dich und salbe dich und lege [gute] Kleider an; dann gehe zur Tenne, dass du von niemandem bemerkt werdest, bis er fertig ist mit Essen und Trinken.
@@ -69,7 +69,7 @@ Ruth
 17. Und sie sprach: Diese sechs [Maß Gerste gab er mir; denn, sprach er zu mir, du sollst nicht leer heimkommen zu deiner Schwiegermutter.
 18. [Noomi sagte darauf: Bleibe, meine Tochter, bis du erfährst wie die Sache ausfällt; denn der Mann wird nicht rasten, er habe denn die Sache heute beendet.
 
-4. Kapitel
+## 4. Kapitel ##
 1. Boas aber ging hinauf an das Thor und setzte sich dort; da ging der Blutsfreund vorüber, von dem Boas geredet. [Boas] sprach zu ihm: Komm her, setze dich hierher, du der und der! Er kam herzu und setzte sich.
 2. [Boas] berief zehn Männer von den Aeltesten der Stadt und sprach zu ihnen: Setzet euch hierher. Sie setzten sich.
 3. Er sprach nun zu dem Blutsfreund: Das Ackerfeld, das unserm Bruder Elimelech gehört, will Noomi, die heimgekehrt ist von dem Gefilde Moab, verkaufen.
